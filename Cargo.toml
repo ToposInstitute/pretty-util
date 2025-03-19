@@ -1,0 +1,7 @@
+[package]
+name = "pretty-util"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pretty.workspace = true
